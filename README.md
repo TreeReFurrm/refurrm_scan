@@ -1,2 +1,5 @@
-# refurrm_scan
-ReFURRM Ai Item Scan Tool
+# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# refurrm-legacy
+# refurrm-legacy
